@@ -9,5 +9,7 @@ public class Login {
 		ChromeDriver driver = new ChromeDriver();
 		
 		driver.get("https://www.facebook.com/");
+		
+		System.out.println("Test for GitHub");
 	}
 }
